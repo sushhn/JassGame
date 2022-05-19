@@ -1,0 +1,10 @@
+.button:hover{
+	-fx-background-color: lightgreen;
+	}
+
+.root{
+    -fx-background-image: url("../resources/Spielmatte.jpg");
+    -fx-background-repeat: stretch;  
+    -fx-background-size: 900 650;
+    -fx-background-position: center center;
+}
